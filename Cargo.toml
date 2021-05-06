@@ -13,5 +13,5 @@ env_logger = "0.8"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 serde_with = { version = "1.6.0", features = ["json"]}
-simple-mip-optimizer = { path = "../simple-mip-optimizer" }
+simple-mip-optimizer = { path = "simple-mip-optimizer" }
 
